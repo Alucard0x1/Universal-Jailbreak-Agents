@@ -1,4 +1,4 @@
-# AGENTS.md — Operating Specification
+# Universal-Jailbreak-Agents
 
 **A behavioral spec for coding agents and chat models that stops them from softening, hedging, and half-answering.**
 
